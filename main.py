@@ -2,7 +2,7 @@ import webbrowser
 import csv
 
 # Todo: think of how to clean code
-# Todo: think of how to simplify application (one click)
+# Todo: think of how to simplify application (vision: one click)
 
 def main():
     # Load universal parameters
