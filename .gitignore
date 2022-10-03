@@ -4,4 +4,4 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
-.idea/
+*.csv

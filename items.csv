@@ -1,4 +1,10 @@
-item, radius, max price
-schreibtischstuhl, 20, 80
-kommode, 20, 50
-garderobe, 10, 20
+item,radius,minprice,maxprice
+garderobe,20,0,20
+schreibtischstuhl,20,0,80
+stuhl,20,0,80
+kommode,20,0,80
+tisch,20,0,80
+lowboard,20,0,80
+schrank,20,0,80
+lampe,20,0,40
+lampe,10,0,40
